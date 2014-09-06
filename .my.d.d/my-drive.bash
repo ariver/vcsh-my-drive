@@ -43,7 +43,7 @@ cd "${BASH_SOURCE%/*}"
 
     ( * ) {
 
-        printf "${BASH_SOURCE} %s" mount umount
+        printf "${BASH_SOURCE} %s\n" mount umount
 
     };;
 
