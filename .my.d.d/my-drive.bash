@@ -24,13 +24,13 @@ cd "${BASH_SOURCE%/*}"
 
         sleep 3
 
-        my-drive/_my_d.bash mount
+        my-drive/my.d.bash mount
 
     };;
 
     ( "umount"* | "unmount"* ) {
 
-        my-drive/_my_d.bash unmount
+        my-drive/my.d.bash unmount
 
         sleep 3
 
