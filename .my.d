@@ -1,1 +1,0 @@
-.my.d.d/my-drive/_my_d
